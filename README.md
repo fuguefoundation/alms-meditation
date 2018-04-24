@@ -3,7 +3,7 @@
 This is an Ethereum smart contract that uses [Oraclize](https://docs.oraclize.it) to give alms to a beneficiary over a given set of time, emitting meditations as events after each donation.
 
 ## Demo
-[Example](http://fugueweb.com/dev/alms/) using the Ropsten testnet with 10 meditations and alms given.
+[Example](http://fugueweb.com/dev/alms/) using the Ropsten testnet with 10 meditations and alms given out every 2-3 minutes.
 
 ## For Developers
 1. Clone the repo
