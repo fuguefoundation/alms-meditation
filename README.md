@@ -1,5 +1,4 @@
 # Alms Meditation Contract
-------------------------
 
 This is an Ethereum smart contract that uses [Oraclize](https://docs.oraclize.it) to give alms to a beneficiary over a given set of time, emitting meditations as events after each donation.
 
